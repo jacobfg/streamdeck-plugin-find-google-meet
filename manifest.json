@@ -1,0 +1,37 @@
+{
+  "Actions": [
+    {
+      "Name": "Google Meet Active",
+      "Icon": "images/google-meet-doodle",
+      "SupportedInMultiActions": false,
+      "UUID": "com.github.jacobfg.streamdeck-plugin-find-google-meet.action",
+      "States": [{
+        "Image": "images/google-meet-doodle",
+        "TitleAlignment": "middle",
+        "FontSize": "11",
+        "Title": "Googel Meet Active",
+        "ShowTitle": false
+      }]
+    }      
+  ],
+  "SDKVersion": 2,
+  "Author": "Jacob FG",
+  "Category": "Find Google Meet",
+  "CategoryIcon": "images/google-meet-doodle",
+  "Icon": "images/google-meet-doodle",
+  "CodePath": "streamdeck-plugin-find-google-meet",
+  "Description": "Find Google Meet and bring it to the forground",
+  "Name": "Find Google Meet",
+  "URL": "https://github.com/jacobfg/streamdeck-plugin-find-google-meet",
+  "Version": "0.1",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion" : "10.11"
+    }
+  ],
+  "Software":
+    {
+        "MinimumVersion" : "4.1"
+    }
+}
